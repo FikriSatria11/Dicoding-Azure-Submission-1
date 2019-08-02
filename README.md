@@ -1,2 +1,2 @@
-# Dicoding-Azure-Submission-1
-Submission 1 MACD
+# a83-macd-labs
+Source code untuk kelas Azure
